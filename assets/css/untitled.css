@@ -1,0 +1,32 @@
+.navbar-default {
+  background-color:rgba(255,255,255,0);
+}
+
+.navbar-default .navbar-nav > li > a {
+  color:black;
+  font-weight:bold;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color:black;
+  background-color:transparent;
+}
+
+.nav.navbar-nav {
+  float:right;
+}
+
+.scrolled {
+  background-color:white;
+}
+
+.navbar-default .navbar-link {
+  color:black;
+  font-weight:bold;
+}
+
+#our-clients {
+  color:grey;
+  font-weight:100;
+}
+
